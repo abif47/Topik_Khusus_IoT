@@ -10,3 +10,5 @@ a = 10
 print(a)
 b = a+5
 print(b)
+
+#bytecode adalah compile python
